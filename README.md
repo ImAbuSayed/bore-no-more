@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bore-no-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bore No More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bore-no-more/) |
+| **Get License** | [Secure Licensing Rights for Bore No More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bore-no-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀਆਂ ਅਦਾਵਾਂ ਦਾ ਜਾਦੂ ਕਰੇ ਮੈਨੂੰ crazy
+> ਮੈਂ ਆਸ਼ਿਕ ਤੇਰਾ ਬਣ ਗਿਆ ਸੁਣ ਮੇਰੀ baby
+> ਮੈਂ ਰਾਤਾਂ ਨੂੰ ਜਾਗਦਾ ਹਾਂ taking no warning
+> ਮੈਂ ਤੇਰਾ ਹੀ ਦੀਵਾਨਾ ਰਹਿੰਦਾ till the morning
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
