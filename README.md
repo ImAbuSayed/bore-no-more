@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bore-no-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bore No More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bore-no-more/) |
+| **Get License** | [Music Rights & Licensing for Bore No More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bore-no-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cef74efb26ed175d55671e75ee55cbe10adea1a45388f59b8ef9e792417bb369` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
